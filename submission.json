@@ -1,0 +1,9 @@
+{
+  "prompt": "Victorian natural history illustration, 1860s style, pen-and-ink with watercolor wash. A single botanical plate showing three specimen plants side by side, each in cross-section view showing roots below soil line. Left specimen: one single thick rigid taproot descending perfectly straight, no branches. Center specimen: balanced elegant root system with moderate branching. Right specimen: hundreds of extremely fine chaotic tangled roots exploding in every direction wrapping every soil grain. Taxonomic precision, fine crosshatching, even line weight, sepia ink on aged cream paper, delicate watercolor wash in muted greens and browns. No annotations, no labels, no text, no borders. Single frame.",
+  "model": "Grok",
+  "concept": "bias-variance tradeoff",
+  "tradition_name": "Victorian natural history illustration",
+  "tradition_period": "1850–1880",
+  "tradition_approach": "Pen-and-ink with watercolor wash, fine crosshatching for shadows, stippling for soil texture, varied line weights and contour hatching for root volume — specific to 1860s botanical specimen plate grammar.",
+  "publish_email": true
+}
